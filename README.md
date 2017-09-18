@@ -1,2 +1,2 @@
-# Functions
-Functions as a method to raise level of code abstraction
+# Функції
+Функції як спосіб абстракції коду
